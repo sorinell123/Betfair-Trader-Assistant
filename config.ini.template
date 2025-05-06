@@ -1,0 +1,6 @@
+[API]
+key = your_api_key_here
+max_tokens = 2500
+
+[Prompts]
+saved_prompt = Enter your default prompt here
